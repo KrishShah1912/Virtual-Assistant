@@ -1,4 +1,5 @@
 🧠 Virtual Assistant
+
 A Python-based voice-enabled virtual assistant that performs real-time tasks like playing music, fetching news, and responding to user commands. Designed as a modular, scalable desktop application with a focus on user interaction and automation.
 
 🚀 Features
@@ -16,14 +17,18 @@ A Python-based voice-enabled virtual assistant that performs real-time tasks lik
 * requests – for API calls
 * NewsAPI – for fetching current headlines
 
-📦 Installation
-git clone https://github.com/KrishShah1912/Virtual-Assistant.git
-cd Virtual-Assistant/Major\ Project\ 1\ \(Virtual\ Assistant\)
-pip install -r requirements.txt
-python main.py
-(⚠️ Make sure to add your News API key in news.py before running the project.)
-
 🎯 Use Cases
 * Personal productivity assistant
 * Hands-free music and news control
 * Prototype for voice-enabled desktop automation
+
+
+## Installation
+
+```bash
+git clone https://github.com/KrishShah1912/Virtual-Assistant.git
+cd Virtual-Assistant/Major\ Project\ 1\ (Virtual\ Assistant)
+pip install -r requirements.txt
+python main.py```
+
+
