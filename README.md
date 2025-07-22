@@ -29,6 +29,6 @@ A Python-based voice-enabled virtual assistant that performs real-time tasks lik
 git clone https://github.com/KrishShah1912/Virtual-Assistant.git
 cd Virtual-Assistant/Major\ Project\ 1\ (Virtual\ Assistant)
 pip install -r requirements.txt
-python main.py```
+python main.py
 
 
